@@ -41,10 +41,10 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 The Yanomami are hunter agriculturalists who live in large circular houses called yanos or shabonos that house up to 400 people each. Residential areas are located on the outskirts of the yanos while communal areas are located in the middle. The center area is generally used for rituals, feasts, and games. Aditionally, the Yanomami stongly believe in equality and thus have no chief system. 10% of their food is hunted and the majority is either grown or scavenged. Meat is always shared among the people and their land is essential to their spiritual practices, food, and medicines. Thus, “UN Human Rights fully supports the legitimate demands of Brazil´s indigenous peoples to remove illegal miners from their territories,” states Jan Jarab, the UN Human Rights’ Regional Representative for South America.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
-## Multiple viewers
+## Treaties and their Impact
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
+The Yanomami territory is controlled by the Brasil and Venezuelan government. On May 25, 1992 a Presidential decree declared the Yanomami essential to the preservation of Amazonian biodiversity and granted land the size of 94,000km2 - about the size of portugal. In 1991 Brazil’s government set aside an area of some 36,000 square miles (93,240 square km)—roughly 30 percent of their ancestral territory—as a homeland for the Yanomami, but in the early 21st century governmental commitment to the enforcement of boundaries remained intermittent at best.
+
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
