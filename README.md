@@ -25,7 +25,7 @@ The Yanomami live in the remote forest of the orinoco river basin in southern Ve
 The Yanomami live in vine and lead thatched houses, relocating their villages when the soil wears out or when they become susceptible to attack by other Yanomami people. They migrated across the Bering Straits between Asia and America 15,000 years ago, making their way slowly down to South America. Today thier culture is still practiced in remote parts of Venezuela and their total population stands at around 38,000. The Yanomami are constantly at war with one another yet socially center themselves through trade and sharing food with friendly groups. They first came into sustained contact with outsiders in the 1940s when the Brazilian government sent teams to delimit the frontier with Venezuela. Soon the government’s Indian Protection Service (as it was then called) and religious missionary groups established themselves there. This influx of people led to the first epidemics of measles and flu in which many Yanomami died. In the early 1970s the military government decided to build a road through the Amazon along the northern frontier. With no prior warning bulldozers drove through the community of Opiktheri. Two villages were wiped out from diseases to which they had no immunity. The Yanomami continue to suffer from the devastating and lasting impacts of the road which brought in colonists, diseases and alcohol. Today cattle ranchers and colonists use the road as an access point to invade and deforest the Yanomami area. Additionally, Yanomami survival is also threatened by the past incursions of brazilian miners in the 1990s. 
 
 
-## Image
+## Basic Facts
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
@@ -36,10 +36,9 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
-## Map
+## Values about and toward the Earth
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+The Yanomami are hunter agriculturalists who live in large circular houses called yanos or shabonos that house up to 400 people each. Residential areas are located on the outskirts of the yanos while communal areas are located in the middle. The center area is generally used for rituals, feasts, and games. Aditionally, the Yanomami stongly believe in equality and thus have no chief system. 10% of their food is hunted and the majority is either grown or scavenged. Meat is always shared among the people and their land is essential to their spiritual practices, food, and medicines. Thus, “UN Human Rights fully supports the legitimate demands of Brazil´s indigenous peoples to remove illegal miners from their territories,” states Jan Jarab, the UN Human Rights’ Regional Representative for South America.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 ## Multiple viewers
