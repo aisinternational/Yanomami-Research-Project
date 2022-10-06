@@ -49,6 +49,17 @@ The Yanomami territory is controlled by the Brasil and Venezuelan government. On
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
 
+## Environmental challenges
+
+In the 1980s, up to 40,000 gold miners from Brazil invaded Yanomami land. Since then, mining and ranching have been continuously threatening the Yanomami’s lands. Gold mining has devastated land that is essential to the Yanomami way of life as they rely on the ecosystem and biodiversity in order to survive and practice their culture. 
+
+## Human Rights Concerns and their Impact
+
+Reduced access to health care 
+Mining on Yanomami lands has introduced mercury into the environment and water supply. As a result, mercury poisoning is becoming an increasingly prevalent issue within the community. Poisoning harms internal organs and has especially effected children and their growth. Malnutrition has also increased due to changes in their ecosystem. Thus, the Yanomami must now rely on imported foods in order to sustain their youth. As the Yanomami have 
+reduced access to health care, these problems are difficult to solve. Lastly, the introduction of drugs and alcohol have caused an increase of domestic and sexual violence towards women and girls. This has caused a rift between generations and disrupted cultural practices
+
+
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
