@@ -20,7 +20,10 @@ The Yanomami live in the remote forest of the orinoco river basin in southern Ve
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
-# Basic usage
+# Brief History
+
+The Yanomami live in vine and lead thatched houses and relocate their villages when the soil wears out or when they become susceptible to attack by other Yanomami people. They migrated across the Bering Straits between Asia and America 15,000 years ago, making their way slowly down to South America. Today their total population stands at around 38,000. Traditional yanomami culture is still practiced in remote parts of Venezuela. The Yanomami are constantly at war with one another yet socially center themselves through trade and sharing food with friendly groups. The Yanomami first came into sustained contact with outsiders in the 1940s when the Brazilian government sent teams to delimit the frontier with Venezuela. Soon the government’s Indian Protection Service (as it was then called) and religious missionary groups established themselves there. This influx of people led to the first epidemics of measles and flu in which many Yanomami died. In the early 1970s the military government decided to build a road through the Amazon along the northern frontier. With no prior warning bulldozers drove through the community of Opiktheri. Two villages were wiped out from diseases to which they had no immunity. The Yanomami continue to suffer from the devastating and lasting impacts of the road which brought in colonists, diseases and alcohol. Today cattle ranchers and colonists use the road as an access point to invade and deforest the Yanomami area. Additionally, Yanomami survival was also threatened by the incursions of brazilian miners in the 1990s. 
+
 
 ## Image
 
