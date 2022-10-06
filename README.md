@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="The Yanomami"
-       author="JSTOR Labs team"
+       author="Abby, Naisola and Sneha"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
 
@@ -14,9 +14,9 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
+# Geographical Location
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+The Yanomami live in the remote forest of the orinoco river basin in southern Venezuela and the northernmost reaches of the Amazon River basin in Northern Brazil. At over 9.6 million hectares, the Yanomami territory in Brazil is twice the size of Switzerland. In Venezuela, the Yanomami live in the 8.2 million hectare Alto Orinoco – Casiquiare Biosphere Reserve. Together, these areas form the largest forested indigenous territory in the world. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
