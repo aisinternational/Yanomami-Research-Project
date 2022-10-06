@@ -27,7 +27,7 @@ The Yanomami live in vine and lead thatched houses, relocating their villages wh
 
 ## Basic Facts
 
-The Yanomami live in small, scattered villages within a 96,650 km^2 property and believe in the “Yanomamö Cosmos," four subtiers where each layer provides context to different ways of life. Their ability to breath, eat, sleep, and exist are all founded in this idea. Additionally, in the early 21st century, 32,000 individuals were identified as members of the indigenous group. Lastly, according to the words of the Yanomami people, Yanomami Thepe means “Human Beings.”[^1]
+The Yanomami live in small, scattered villages within a 96,650 square kilometer property and believe in the “Yanomamö Cosmos," four subtiers where each layer provides context to different ways of life. Their ability to breath, eat, sleep, and exist are all founded in this idea. Additionally, in the early 21st century, 32,000 individuals were identified as members of the indigenous group. Lastly, according to the words of the Yanomami people, Yanomami Thepe means “Human Beings.”[^1]
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
