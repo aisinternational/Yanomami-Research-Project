@@ -27,9 +27,7 @@ The Yanomami live in vine and lead thatched houses, relocating their villages wh
 
 ## Basic Facts
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+The Yanomami live in small, scattered villages within a 96,650 km^2 property and believe in the “Yanomamö Cosmos," four subtiers where each layer provides context to different ways of life. Their ability to breath, eat, sleep, and exist are all founded in this idea. Additionally, in the early 21st century, 32,000 individuals were identified as members of the indigenous group. Lastly, according to the words of the Yanomami people, Yanomami Thepe means “Human Beings.”[^1]
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
