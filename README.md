@@ -18,7 +18,7 @@
 
 The Yanomami people live in the remote forest of the orinoco river basin in southern Venezuela and the northernmost reaches of the Amazon River basin in Northern Brazil. At over 9.6 million hectares, the Yanomami territory in Brazil is twice the size of Switzerland. In Venezuela, the Yanomami live in the 8.2 million hectare Alto Orinoco – Casiquiare Biosphere Reserve. Together, these areas form the largest forested indigenous territory in the world. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-entity eid="Q10380751">
-<param ve-map center="Q10380751" zoom="10" prefer-geojson>
+<param ve-map center="Q10380751" zoom="10" prefer-geojson basemap="BucknellGIS_WorldCountries>
 
 ## Brief History
 
