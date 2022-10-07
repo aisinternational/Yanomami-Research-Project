@@ -59,4 +59,28 @@ reduced access to health care, these problems are difficult to solve. Lastly, th
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: "Bill PL 490/2007: A Death Sentence for the Brazilian Amazon and Indigenous
+     Peoples." People's Planet Project. Last modified July 2021. Accessed
+     October 5, 2022. https://www.peoplesplanetproject.org/bill-pl490-2007.
+Brown, Sarah. "Brazil Congress Fast-Tracks 'Death Package' Bill to Mine on
+     Indigenous Lands." Mongabay News & Inspiration from Nature's Frontline.
+     Last modified March 15, 2022. Accessed October 5, 2022.
+     https://news.mongabay.com/2022/03/
+     brazil-congress-fast-tracks-death-package-bill-to-mine-on-indigenous-lands/.
+Tikkanen, Amy, ed. "Yanomami People." Britannica. Accessed October 5, 2022.
+     https://www.britannica.com/topic/Yanomami.
+United Nations. "In the Amazon Rainforest, an Indigenous Tribe Fights for
+     Survival." United Nations Human Rights Office of the High Commissioner.
+     Last modified August 9, 2022. Accessed October 5, 2022.
+     https://www.ohchr.org/en/stories/2022/08/
+     Amazon-rainforest-indigenous-tribe-fights-survival.
+Wallace, Scott. "Rare Photos of Brazilian Tribe Spur Pleas to Protect It."
+     National Geographic. Last modified November 22, 2016. Accessed October 5,
+     2022. https://www.nationalgeographic.com/culture/article/
+     Brazil-uncontacted-indigenous-tribe-Yanomami-photos.
+"Yanomami." Povos Indigenas no Brasil. Accessed October 5, 2022.
+     https://pib.socioambiental.org/en/Povo:Yanomami.
+"The Yanomami." Survival International. Accessed October 5, 2022.
+     https://www.survivalinternational.org/tribes/yanomami.
+Al Jazeera English. “Illegal Mining, Abuses Surge on Indigenous Land in Brazil: Report.” YouTube.
+    Accessed October 5, 2022. https://www.youtube.com/watch?v=uJhcouC3OIs.
