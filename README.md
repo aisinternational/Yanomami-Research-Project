@@ -3,7 +3,7 @@
 <param ve-config 
        title="The Yanomami"
        author="Abby, Naisola and Sneha"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://assets.survivalinternational.org/pictures/299/yanomami-maloca_article_column@2x.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
