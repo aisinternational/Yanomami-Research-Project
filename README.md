@@ -27,7 +27,7 @@ The Yanomami live in vine and lead thatched houses, relocating their villages wh
 
 ## Basic Facts
 
-The Yanomami live in small, scattered villages within a 96,650 square kilometer property and believe in the “Yanomamö Cosmos," four subtiers where each layer provides context to different ways of life. Their ability to breath, eat, sleep, and exist are all founded in this idea. Additionally, in the early 21st century, 32,000 individuals were identified as members of the indigenous group. Lastly, according to the words of the Yanomami people, Yanomami Thepe means “Human Beings.”[^1]
+The Yanomami live in small, scattered villages within a 96,650 square kilometer property and believe in the “Yanomamö Cosmos," four subtiers where each layer provides context to different ways of life. Their ability to breath, eat, sleep, and exist are all founded in this idea. Additionally, in the early 21st century, 32,000 individuals were identified as members of the indigenous group. Lastly, according to the words of the Yanomami people, Yanomami Thepe means “Human Beings.”
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
@@ -36,7 +36,7 @@ The Yanomami live in small, scattered villages within a 96,650 square kilometer 
 
 ## Values about and toward the Earth
 
-The Yanomami are hunter agriculturalists who live in large circular houses called yanos or shabonos that house up to 400 people each. Residential areas are located on the outskirts of the yanos while communal areas are located in the middle. The center area is generally used for rituals, feasts, and games. Aditionally, the Yanomami stongly believe in equality and thus have no chief system. 10% of their food is hunted and the majority is either grown or scavenged. Meat is always shared among the people and their land is essential to their spiritual practices, food, and medicines. Thus, “UN Human Rights fully supports the legitimate demands of Brazil´s indigenous peoples to remove illegal miners from their territories,” states Jan Jarab, the UN Human Rights’ Regional Representative for South America.
+The Yanomami are hunter agriculturalists who live in large circular houses called yanos or shabonos that house up to 400 people each. Residential areas are located on the outskirts of the yanos while communal areas are located in the middle. The center area is generally used for rituals, feasts, and games. Aditionally, the Yanomami stongly believe in equality and thus have no chief system. 10% of their food is hunted and the majority is either grown or scavenged. Meat is always shared among the people and their land is essential to their spiritual practices, food, and medicines. Thus, “UN Human Rights fully supports the legitimate demands of Brazil´s indigenous peoples to remove illegal miners from their territories,” states Jan Jarab, the UN Human Rights’ Regional Representative for South America. [^1]
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 ## Treaties and their Impact
@@ -59,28 +59,32 @@ reduced access to health care, these problems are difficult to solve. Lastly, th
 
 # References
 
-[^1]: "Bill PL 490/2007: A Death Sentence for the Brazilian Amazon and Indigenous
+[^1]: "Yanomami." Povos Indigenas no Brasil. Accessed October 5, 2022.
+     https://pib.socioambiental.org/en/Povo:Yanomami.
+     
+     "Bill PL 490/2007: A Death Sentence for the Brazilian Amazon and Indigenous
      Peoples." People's Planet Project. Last modified July 2021. Accessed
      October 5, 2022. https://www.peoplesplanetproject.org/bill-pl490-2007.
-Brown, Sarah. "Brazil Congress Fast-Tracks 'Death Package' Bill to Mine on
+     
+     Brown, Sarah. "Brazil Congress Fast-Tracks 'Death Package' Bill to Mine on
      Indigenous Lands." Mongabay News & Inspiration from Nature's Frontline.
      Last modified March 15, 2022. Accessed October 5, 2022.
-     https://news.mongabay.com/2022/03/
-     brazil-congress-fast-tracks-death-package-bill-to-mine-on-indigenous-lands/.
-Tikkanen, Amy, ed. "Yanomami People." Britannica. Accessed October 5, 2022.
+     https://news.mongabay.com/2022/03/brazil-congress-fast-tracks-death-package-bill-to-mine-on-indigenous-lands/.
+     
+     Tikkanen, Amy, ed. "Yanomami People." Britannica. Accessed October 5, 2022.
      https://www.britannica.com/topic/Yanomami.
-United Nations. "In the Amazon Rainforest, an Indigenous Tribe Fights for
+     
+     United Nations. "In the Amazon Rainforest, an Indigenous Tribe Fights for
      Survival." United Nations Human Rights Office of the High Commissioner.
      Last modified August 9, 2022. Accessed October 5, 2022.
-     https://www.ohchr.org/en/stories/2022/08/
-     Amazon-rainforest-indigenous-tribe-fights-survival.
-Wallace, Scott. "Rare Photos of Brazilian Tribe Spur Pleas to Protect It."
+     https://www.ohchr.org/en/stories/2022/08/Amazon-rainforest-indigenous-tribe-fights-survival.
+     
+     Wallace, Scott. "Rare Photos of Brazilian Tribe Spur Pleas to Protect It."
      National Geographic. Last modified November 22, 2016. Accessed October 5,
-     2022. https://www.nationalgeographic.com/culture/article/
-     Brazil-uncontacted-indigenous-tribe-Yanomami-photos.
-"Yanomami." Povos Indigenas no Brasil. Accessed October 5, 2022.
-     https://pib.socioambiental.org/en/Povo:Yanomami.
-"The Yanomami." Survival International. Accessed October 5, 2022.
+     2022. https://www.nationalgeographic.com/culture/article/Brazil-uncontacted-indigenous-tribe-Yanomami-photos.
+     
+     "The Yanomami." Survival International. Accessed October 5, 2022.
      https://www.survivalinternational.org/tribes/yanomami.
-Al Jazeera English. “Illegal Mining, Abuses Surge on Indigenous Land in Brazil: Report.” YouTube.
-    Accessed October 5, 2022. https://www.youtube.com/watch?v=uJhcouC3OIs.
+     
+     Al Jazeera English. “Illegal Mining, Abuses Surge on Indigenous Land in Brazil: Report.” YouTube.
+     Accessed October 5, 2022. https://www.youtube.com/watch?v=uJhcouC3OIs.
