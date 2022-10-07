@@ -17,7 +17,7 @@
 ## Geographical Location
 
 The Yanomami live in the remote forest of the orinoco river basin in southern Venezuela and the northernmost reaches of the Amazon River basin in Northern Brazil. At over 9.6 million hectares, the Yanomami territory in Brazil is twice the size of Switzerland. In Venezuela, the Yanomami live in the 8.2 million hectare Alto Orinoco – Casiquiare Biosphere Reserve. Together, these areas form the largest forested indigenous territory in the world. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-entity eid="1.918617,-62.998092">
+<param ve-entity eid="1.918617, -62.998092">
 <param ve-map center="1.918617,-62.998092" zoom="11">
 
 ## Brief History
@@ -29,6 +29,8 @@ manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5
 ## Basic Facts
 
 The Yanomami live in small, scattered villages within a 96,650 square kilometer property and believe in the “Yanomamö Cosmos," four subtiers where each layer provides context to different ways of life. Their ability to breath, eat, sleep, and exist are all founded in this idea. Additionally, in the early 21st century, 32,000 individuals were identified as members of the indigenous group. Lastly, according to the words of the Yanomami people, Yanomami Thepe means “Human Beings.”
+<param ve-entity eid="Q220">
+<param ve-map center="Q220" zoom="10">
 
 ## Values about and toward the Earth 
 
