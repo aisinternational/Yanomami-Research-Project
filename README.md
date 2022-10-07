@@ -49,7 +49,7 @@ The Yanomami are hunter agriculturalists who live in large circular houses calle
        
 ## Treaties and their Impact
 
-Yanomami territory is controlled by the Brasil and Venezuelan government. On May 25, 1992 a [Presidential decree] (http://www.cidh.org/annualrep/84.85eng/brazil7615.htm) declared the Yanomami essential to the preservation of Amazonian biodiversity and granted land the size of 94,000km2 - about the size of portugal. [^6] In 1991 Brazil’s government set aside an area of some 36,000 square miles (93,240 square km)—roughly 30 percent of their ancestral territory—as a homeland for the Yanomami, but in the early 21st century governmental commitment to the enforcement of boundaries remained intermittent at best. [^7]
+Yanomami territory is controlled by the Brasil and Venezuelan government. On May 25, 1992 a [Presidential decree](http://www.cidh.org/annualrep/84.85eng/brazil7615.htm) declared the Yanomami essential to the preservation of Amazonian biodiversity and granted land the size of 94,000km2 - about the size of portugal. [^6] In 1991 Brazil’s government set aside an area of some 36,000 square miles (93,240 square km)—roughly 30 percent of their ancestral territory—as a homeland for the Yanomami, but in the early 21st century governmental commitment to the enforcement of boundaries remained intermittent at best. [^7]
 
 
 ## Environmental challenges
