@@ -27,7 +27,7 @@ The Yanomami live in vine and lead thatched houses, relocating their villages wh
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://assets.survivalinternational.org/pictures/265/braz-yano-fw-32_news_medium.jpg">
+       url="https://assets.survivalinternational.org/pictures/265/braz-yano-fw-32_screen.jpg">
 
 ## Basic Facts
 
@@ -53,7 +53,7 @@ In the 1980s, up to 40,000 gold miners from Brazil invaded Yanomami land. Since 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://assets.survivalinternational.org/pictures/473/yanomami-gold-mining_article_column@2x.jpg">
+       url="https://www.aljazeera.com/wp-content/uploads/2022/04/AP22010724797689.jpg?w=770&resize=770%2C514">
 
 ## Human Rights Concerns and their Impact
 
