@@ -14,13 +14,13 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Geographical Location
+## Geographical Location
 
 The Yanomami live in the remote forest of the orinoco river basin in southern Venezuela and the northernmost reaches of the Amazon River basin in Northern Brazil. At over 9.6 million hectares, the Yanomami territory in Brazil is twice the size of Switzerland. In Venezuela, the Yanomami live in the 8.2 million hectare Alto Orinoco – Casiquiare Biosphere Reserve. Together, these areas form the largest forested indigenous territory in the world. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
 manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
-# Brief History
+## Brief History
 
 The Yanomami live in vine and lead thatched houses, relocating their villages when the soil wears out or when they become susceptible to attack by other Yanomami people. They migrated across the Bering Straits between Asia and America 15,000 years ago, making their way slowly down to South America. Today thier culture is still practiced in remote parts of Venezuela and their total population stands at around 38,000. The Yanomami are constantly at war with one another yet socially center themselves through trade and sharing food with friendly groups. They first came into sustained contact with outsiders in the 1940s when the Brazilian government sent teams to delimit the frontier with Venezuela. Soon the government’s Indian Protection Service (as it was then called) and religious missionary groups established themselves there. This influx of people led to the first epidemics of measles and flu in which many Yanomami died. In the early 1970s the military government decided to build a road through the Amazon along the northern frontier. With no prior warning bulldozers drove through the community of Opiktheri. Two villages were wiped out from diseases to which they had no immunity. The Yanomami continue to suffer from the devastating and lasting impacts of the road which brought in colonists, diseases and alcohol. Today cattle ranchers and colonists use the road as an access point to invade and deforest the Yanomami area. Additionally, Yanomami survival is also threatened by the past incursions of brazilian miners in the 1990s.
 
