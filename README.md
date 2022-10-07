@@ -16,7 +16,7 @@
 
 ## Geographical Location
 
-The Yanomami live in the remote forest of the orinoco river basin in southern Venezuela and the northernmost reaches of the Amazon River basin in Northern Brazil. At over 9.6 million hectares, the Yanomami territory in Brazil is twice the size of Switzerland. In Venezuela, the Yanomami live in the 8.2 million hectare Alto Orinoco – Casiquiare Biosphere Reserve. Together, these areas form the largest forested indigenous territory in the world. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+The Yanomami people live in the remote forest of the orinoco river basin in southern Venezuela and the northernmost reaches of the Amazon River basin in Northern Brazil. At over 9.6 million hectares, the Yanomami territory in Brazil is twice the size of Switzerland. In Venezuela, the Yanomami live in the 8.2 million hectare Alto Orinoco – Casiquiare Biosphere Reserve. Together, these areas form the largest forested indigenous territory in the world. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-map center="1.918617, -62.998092" zoom="10" prefer-geojson>
 
 ## Brief History
@@ -25,7 +25,7 @@ The Yanomami live in vine and lead thatched houses, relocating their villages wh
 
 ## Basic Facts
 
-The Yanomami live in small, scattered villages within a 96,650 square kilometer property and believe in the “Yanomamö Cosmos," four subtiers where each layer provides context to different ways of life. Their ability to breath, eat, sleep, and exist are all founded in this idea. Additionally, in the early 21st century, 32,000 individuals were identified as members of the indigenous group. Lastly, according to the words of the Yanomami people, Yanomami Thepe means “Human Beings.”
+The Yanomami people live in small, scattered villages within a 96,650 square kilometer property and believe in the “Yanomamö Cosmos," four subtiers where each layer provides context to different ways of life. Their ability to breath, eat, sleep, and exist are all founded in this idea. Additionally, in the early 21st century, 32,000 individuals were identified as members of the indigenous group. Lastly, according to the words of the Yanomami people, Yanomami Thepe means “Human Beings.”
 
 ## Values about and toward the Earth 
 
@@ -38,7 +38,7 @@ The Yanomami are hunter agriculturalists who live in large circular houses calle
        
 ## Treaties and their Impact
 
-The Yanomami territory is controlled by the Brasil and Venezuelan government. On May 25, 1992 a Presidential decree declared the Yanomami essential to the preservation of Amazonian biodiversity and granted land the size of 94,000km2 - about the size of portugal. In 1991 Brazil’s government set aside an area of some 36,000 square miles (93,240 square km)—roughly 30 percent of their ancestral territory—as a homeland for the Yanomami, but in the early 21st century governmental commitment to the enforcement of boundaries remained intermittent at best.
+Yanomami territory is controlled by the Brasil and Venezuelan government. On May 25, 1992 a Presidential decree declared the Yanomami essential to the preservation of Amazonian biodiversity and granted land the size of 94,000km2 - about the size of portugal. In 1991 Brazil’s government set aside an area of some 36,000 square miles (93,240 square km)—roughly 30 percent of their ancestral territory—as a homeland for the Yanomami, but in the early 21st century governmental commitment to the enforcement of boundaries remained intermittent at best.
 
 ## Environmental challenges
 
