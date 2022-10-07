@@ -27,7 +27,7 @@ The Yanomami live in vine and lead thatched houses, relocating their villages wh
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://assets.survivalinternational.org/pictures/265/braz-yano-fw-32_screen.jpg">
+       url="http://img.socioambiental.org/d/373345-1/103_0302.jpg">
 
 ## Basic Facts
 
@@ -54,7 +54,7 @@ Yanomami territory is controlled by the Brasil and Venezuelan government. On May
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="http://img.socioambiental.org/d/373345-1/103_0302.jpg">
+       url="https://assets.survivalinternational.org/pictures/265/braz-yano-fw-32_screen.jpg">
 
 ## Environmental challenges
 
