@@ -25,7 +25,7 @@ The Yanomami people live in the remote forest of the orinoco river basin in sout
 The Yanomami live in vine and lead thatched houses, relocating their villages when the soil wears out or when they become susceptible to attack by other Yanomami people. They migrated across the Bering Straits between Asia and America 15,000 years ago, making their way slowly down to South America. Today thier culture is still practiced in remote parts of Venezuela and their total population stands at around 38,000. The Yanomami are constantly at war with one another yet socially center themselves through trade and sharing food with friendly groups. They first came into sustained contact with outsiders in the 1940s when the Brazilian government sent teams to delimit the frontier with Venezuela. Soon the government’s Indian Protection Service (as it was then called) and religious missionary groups established themselves there. This influx of people led to the first epidemics of measles and flu in which many Yanomami died. In the early 1970s the military government decided to build a road through the Amazon along the northern frontier. With no prior warning bulldozers drove through the community of Opiktheri. Two villages were wiped out from diseases to which they had no immunity. The Yanomami continue to suffer from the devastating and lasting impacts of the road which brought in colonists, diseases and alcohol. Today cattle ranchers and colonists use the road as an access point to invade and deforest the Yanomami area. Additionally, Yanomami survival is also threatened by the past incursions of brazilian miners in the 1990s. [^2]
 <param ve-image 
        label="Yanomami children prepare pupunha, a fruit which comes from a palm tree native to tropical Central and South America, for a feast" 
-       description="Kristian Bengtson, 2003" 
+       description="Kristian Bengtson" 
        url="http://img.socioambiental.org/d/373345-1/103_0302.jpg">
 
 ## Basic Facts
@@ -64,7 +64,7 @@ In the 1980s, up to 40,000 gold miners from Brazil invaded Yanomami land. Since 
 
 Mining on Yanomami lands has introduced mercury into the environment and water supply. As a result, mercury poisoning is becoming an increasingly prevalent issue within the community. Poisoning harms internal organs and has especially effected children and their growth. Malnutrition has also increased due to changes in their ecosystem. Thus, the Yanomami must now rely on imported foods in order to sustain their youth. As the Yanomami have 
 reduced access to health care, these problems are difficult to solve. Lastly, the introduction of drugs and alcohol have caused an increase of domestic and sexual violence towards women and girls. This has caused a rift between generations and disrupted cultural practices.
-<param ve-video id="uJhcouC3OIs">
+<param ve-video id="uJhcouC3OIs" description="Al Jazeera English">
 
 
 # References
