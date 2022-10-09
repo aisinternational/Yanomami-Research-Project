@@ -64,7 +64,7 @@ In the 1980s, up to 40,000 gold miners from Brazil invaded Yanomami land. Since 
 
 Mining on Yanomami lands has introduced mercury into the environment and water supply. As a result, mercury poisoning is becoming an increasingly prevalent issue within the community. Poisoning harms internal organs and has especially effected children and their growth. Malnutrition has also increased due to changes in their ecosystem. Thus, the Yanomami must now rely on imported foods in order to sustain their youth. As the Yanomami have 
 reduced access to health care, these problems are difficult to solve. Lastly, the introduction of drugs and alcohol have caused an increase of domestic and sexual violence towards women and girls. This has caused a rift between generations and disrupted cultural practices.
-<param ve-video id="uJhcouC3OIs" description="Al Jazeera English">
+<param ve-video id="uJhcouC3OIs">
 
 
 # References
