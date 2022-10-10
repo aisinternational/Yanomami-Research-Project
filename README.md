@@ -25,7 +25,7 @@ The Yanomami people live in the remote forest of the orinoco river basin in sout
 The Yanomami live in vine and lead thatched houses, relocating their villages when the soil wears out or when they become susceptible to attack by other Yanomami people. They migrated across the Bering Straits between Asia and America 15,000 years ago, making their way slowly down to South America. Today thier culture is still practiced in remote parts of Venezuela and their total population stands at around 38,000. The Yanomami are constantly at war with one another yet socially center themselves through trade and sharing food with friendly groups. They first came into sustained contact with outsiders in the 1940s when the Brazilian government sent teams to delimit the frontier with Venezuela. Soon the government’s Indian Protection Service (as it was then called) and religious missionary groups established themselves there. This influx of people led to the first epidemics of measles and flu in which many Yanomami died. In the early 1970s the military government decided to build a road through the Amazon along the northern frontier. With no prior warning bulldozers drove through the community of Opiktheri. Two villages were wiped out from diseases to which they had no immunity. The Yanomami continue to suffer from the devastating and lasting impacts of the road which brought in colonists, diseases and alcohol. Today cattle ranchers and colonists use the road as an access point to invade and deforest the Yanomami area. Additionally, Yanomami survival is also threatened by the past incursions of brazilian miners in the 1990s. [^2]
 <param ve-image 
        label="Yanomami children prepare pupunha, a fruit which comes from a palm tree native to tropical Central and South America, for a feast" 
-       description="Kristian Bengtson" 
+       description="Bengtson, Kristian. Preparando a pupunha para festa, aldeia Demini, Terra Indígena Yanomami, Amazonas. Photograph. 2003. Photograph,   https://pib.socioambiental.org/en/Povo:Yanomami.(October 5, 2022)." 
        url="http://img.socioambiental.org/d/373345-1/103_0302.jpg">
 
 ## Basic Facts
@@ -33,7 +33,7 @@ The Yanomami live in vine and lead thatched houses, relocating their villages wh
 The Yanomami people live in small, scattered villages within a 96,650 square kilometer property and believe in the “Yanomamö Cosmos," four subtiers where each layer provides context to different ways of life. Their ability to breath, eat, sleep, and exist are all founded in this idea. [^3] Additionally, in the early 21st century, 32,000 individuals were identified as members of the indigenous group. Lastly, according to the words of the Yanomami people, Yanomami Thepe means “Human Beings.” [^4]
 <param ve-image 
        label="Yanomami shamans perform a spiritual ceremony" 
-       description="Christian Braga/ISA" 
+       description="Braga, Christian. Yanomami shamans perform a ritual in Xihopi village. Photograph. The Office of the High Commissioner for Human  Rights. https://www.ohchr.org/en/stories/2022/08/amazon-rainforest-indigenous-tribe-fights-survival. (October 5, 2022)." 
        url="https://www.ohchr.org/sites/default/files/2022-08/story-2022-amazon-ip-3.jpg">
 
 ## Values about and toward the Earth 
@@ -41,7 +41,8 @@ The Yanomami people live in small, scattered villages within a 96,650 square kil
 The Yanomami are hunter agriculturalists who live in large circular houses called yanos or shabonos that house up to 400 people each. Residential areas are located on the outskirts of the yanos while communal areas are located in the middle. The center area is generally used for rituals, feasts, and games. Aditionally, the Yanomami stongly believe in equality and thus have no chief system. 10% of their food is hunted and the majority is either grown or scavenged. Meat is always shared among the people and their land is essential to their spiritual practices, food, and medicines. Thus, “UN Human Rights fully supports the legitimate demands of Brazil´s indigenous peoples to remove illegal miners from their territories,” states Jan Jarab, the UN Human Rights’ Regional Representative for South America. [^5]
 <param ve-image 
        label="A Yanomami yano" 
-       description="Dennison Berwick/Survival" 
+       description="Berwick, Dennis. A Yanomami maloca. The Yanomami live in large, circular, communal houses called yanos or shabonos. Some can house up to 400 people. The central area is used for activities such as rituals, feasts and games. Photograph. Survival International. https://www.survivalinternati
+onal.org/tribes/yanomami. (October 5, 2022)." 
        url="https://assets.survivalinternational.org/pictures/299/yanomami-maloca_article_column@2x.jpg">
        
 ## Treaties and their Impact
@@ -49,7 +50,7 @@ The Yanomami are hunter agriculturalists who live in large circular houses calle
 Yanomami territory is controlled by the Brasil and Venezuelan government. On May 25, 1992 a [Presidential decree](http://www.cidh.org/annualrep/84.85eng/brazil7615.htm) declared the Yanomami essential to the preservation of Amazonian biodiversity and granted land the size of 94,000km2 - about the size of portugal. [^6] In 1991 Brazil’s government set aside an area of some 36,000 square miles (93,240 square km)—roughly 30 percent of their ancestral territory—as a homeland for the Yanomami, but in the early 21st century governmental commitment to the enforcement of boundaries remained intermittent at best. [^7]
 <param ve-image 
        label="Demini Yanomami use a vine to prepare timbó poison, which is used to stun fish" 
-       description="Fiona Watson/Survival" 
+       description="Watson, Fiona. Yanomami of Demini prepare timbó poison from a vine, used to stun fish, Demini, Brazil. Photograph. Survival International. https://www.survivalinternational.org/tribes/yanomami. (October 5, 2022)."
        url="https://assets.survivalinternational.org/pictures/265/braz-yano-fw-32_screen.jpg">
 
 ## Environmental challenges
@@ -57,7 +58,7 @@ Yanomami territory is controlled by the Brasil and Venezuelan government. On May
 In the 1980s, up to 40,000 gold miners from Brazil invaded Yanomami land. Since then, mining and ranching have been continuously threatening the Yanomami’s lands. [^8] Gold mining has devastated land that is essential to the Yanomami way of life as they rely on the ecosystem and biodiversity in order to survive and practice their culture. [^9] 
 <param ve-image 
        label="Illegal miners mine for gold in the Itaituba area of Para state, Brazil" 
-       description="Lucas Dumphreys/AP Photo" 
+       description="Dumphreys, Lucas. Men search for gold at an illegal mine in the Amazon in the Itaituba area of Para state, Brazil. Photograph. Al Jazeera. https://www.aljazeera.com/news/2022/4/11/illegal-mining-abuses-surge-on-indigenous-land-in-brazil-report. (October 5, 2022)." 
        url="https://www.aljazeera.com/wp-content/uploads/2022/04/AP22010724797689.jpg?w=770&resize=770%2C514">
 
 ## Human Rights Concerns and their Impact
